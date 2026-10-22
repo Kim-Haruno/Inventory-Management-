@@ -1,0 +1,15 @@
+<resources>
+    <!-- Pink / Coral Palette derived from Logo -->
+    <color name="blue_primary">#E11D48</color>
+    <color name="blue_primary_dark">#991B1B</color>
+    <color name="blue_accent">#F43F5E</color>
+    <color name="blue_cyan">#FB7185</color>
+    <color name="blue_light_bg">#FFF1F2</color>
+    <color name="blue_card_border">#FFE4E6</color>
+    <color name="blue_dialog_bg">#FFF1F2</color>
+    <color name="navy_text_primary">#0F172A</color>
+    <color name="navy_text_secondary">#475569</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
